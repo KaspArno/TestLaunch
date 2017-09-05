@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/TestLaunch" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
